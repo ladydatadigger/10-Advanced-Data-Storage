@@ -16,4 +16,4 @@ Filter by the station with the highest number of observations.
 Plot the results as a histogram.
 
 ## Flask API
-Design a Flask API to diplay station data
+Design a Flask API to display station data
